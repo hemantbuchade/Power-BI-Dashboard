@@ -5,3 +5,5 @@ DAX, data transformation, data visualization
 relational data models
 for building interactive dashboards and understanding the
 KPIs.
+
+[Adventure_work _cycle.pdf](https://github.com/hemantbuchade/Power-BI-Dashboard/files/11494797/Adventure_work._cycle.pdf)
