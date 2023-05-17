@@ -1,4 +1,4 @@
-# Built 2 business intelligence dashboards reporting to clients Adventure Works Cycle, a global manufacturing company, and Maven Market, a global supermarket chain from given datasets.
+- Built 2 business intelligence dashboards reporting to clients Adventure Works Cycle, a global manufacturing company, and Maven Market, a global supermarket chain from given datasets.
 •
 Learned
 DAX, data transformation, data visualization
