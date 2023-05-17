@@ -6,4 +6,4 @@ relational data models
 for building interactive dashboards and understanding the
 KPIs.
 
-[Adventure_work _cycle.pdf](https://github.com/hemantbuchade/Power-BI-Dashboard/files/11494797/Adventure_work._cycle.pdf)
+![a1](https://github.com/hemantbuchade/Power-BI-Dashboard/assets/114491531/7ed89302-737e-46cc-99fc-83ffb3b9ddd1)
