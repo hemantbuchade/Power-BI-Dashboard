@@ -4,7 +4,7 @@ DAX, data transformation, data visualization
 , and creating
 relational data models
 for building interactive dashboards and understanding the
-KPIs.
+KPIs
 
 # Adventure Works Cycle Dashboard:
 ![a1](https://github.com/hemantbuchade/Power-BI-Dashboard/assets/114491531/7ed89302-737e-46cc-99fc-83ffb3b9ddd1)
